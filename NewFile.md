@@ -6,3 +6,23 @@
 - We can store our history and our code online for all to see
 - (and in case we mess it up)
 - We can tie a server to a branch
+
+               .-"""-.   <--- can you see this?
+             _/-=-.   \
+            (_|a a/   |_
+             / "  \   ,_)
+        _    \`=' /__/
+       / \_  .;--'  `-.
+       \___)//      ,  \
+        \ \/;        \  \
+         \_.|         | |
+          .-\ '     _/_/
+        .'  _;.    (_  \
+       /  .'   `\   \\_/
+      |_ /       |  |\\
+     /  _)       /  / ||
+    /  /       _/  /  //
+    \_/       ( `-/  ||
+              /  /   \\ .-.
+              \_/     \'-'/
+                       `"`
